@@ -22,9 +22,9 @@ You'll need accounts at three services. All are free or have free tiers adequate
 
 Open [claude.ai](https://claude.ai) (free account works) and paste this:
 
-> I'm setting up an automated job search pipeline using GitHub Actions and Google Sheets. The repo is at https://github.com/jordanmilner-lgtm/strategic-copilot — can you walk me through the full setup step by step, starting with Step 1?
+> I'm setting up an automated job search pipeline using GitHub Actions and Google Sheets. The repo is at https://github.com/jordanmilner-lgtm/strategic-copilot — can you walk me through the full setup step by step, starting with Step 1? I'll also need help finding the ATS job board handles for my list of target companies — I'll give you the company names and you can look them up.
 
-Claude will read this README and guide you through each step interactively, answer questions as they come up, and help debug anything that goes wrong. This is the fastest path, especially for the Google Cloud steps.
+Claude will read this README, guide you through each step interactively, and look up the ATS handles for your target companies directly — you just give it a list of company names. This is the fastest path, especially for the Google Cloud steps and company setup.
 
 **Prefer to follow the steps yourself?** Full instructions are below.
 
@@ -207,9 +207,11 @@ Use commas to separate values. Jobs that don't match your seniority + function c
 
 Fill in your `Config - Companies` tab with the companies you want to monitor daily. Aim for 20–30 companies to start — enough for daily signal without noise.
 
-**You only need to fill in two columns: `Company Name` and `Active`.** Set `Active` to `Y` for each company you want to monitor. Then run the **Detect Company ATS** workflow (Actions tab → Detect Company ATS → Run workflow) — it automatically finds the right job board connection for each company and fills in `ATS Type` and `ATS Handle` for you.
+**You only need to fill in two columns: `Company Name` and `Active`.** Set `Active` to `Y` for each company you want to monitor.
 
-For any companies it can't detect automatically, it will tell you which ones need manual lookup — see [Section A](#section-a-finding-a-companys-ats-handle) for how to do that.
+**If you're using the Claude-guided setup:** just give Claude your list of company names and it will look up the ATS type and handle for each one and tell you exactly what to enter. This is much faster and more accurate than looking them up yourself.
+
+**If you're doing it manually:** run the **Detect Company ATS** workflow (Actions tab → Detect Company ATS → Run workflow) to auto-detect handles where possible. For any it can't find, see [Section A](#section-a-finding-a-companys-ats-handle) below.
 
 **Think in tiers.** Not all companies on your list are equal, and that's fine — the system monitors them all the same way. But building your list with tiers in mind helps you prioritize when results come in.
 
@@ -224,7 +226,7 @@ For any companies it can't detect automatically, it will tell you which ones nee
 - Tier B: companies in your target industry at the right stage (Series B–D, growth-stage, pre-IPO); companies where you have second-degree connections; competitors to Tier A companies
 - Tier C: companies you keep seeing in job alerts; adjacent industries you're open to; companies that are early but on a trajectory you find interesting
 
-**Finding a company's ATS handle:** see [Section A](#section-a-finding-a-companys-ats-handle) below.
+**Finding a company's ATS handle:** if using Claude, just ask it. If doing it manually, see [Section A](#section-a-finding-a-companys-ats-handle) below.
 
 **Companies not on Ashby, Greenhouse, Lever, or Gem:** Workday, iCIMS, Taleo, Comeet, and SAP SuccessFactors don't expose public APIs. You can't monitor them directly with this system. For those companies, check their job boards manually or set a Google Alert.
 
