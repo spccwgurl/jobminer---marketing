@@ -15,7 +15,7 @@ COMPANIES_TAB  = 'Config - Companies'
 PROFILE_TAB    = 'Config - Profile'
 
 RESULTS_HEADERS = [
-    'Job Title', 'Company', 'Job URL', 'Source Lane', 'Date Posted',
+    'Job Title', 'Company', 'Job URL', 'Source Lane', 'Date Posted', 'Days Since Posted',
     'Fit Score', 'Abstract Fit Flag', 'Scope Flag', 'Comp Signal',
     'Corporate Bottleneck', 'Strategic Thesis', 'Status',
 ]
