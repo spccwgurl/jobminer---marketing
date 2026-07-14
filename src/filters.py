@@ -80,9 +80,6 @@ def _location_ok(loc: str, mode: str) -> bool:
     if mode == 'us only':
         if 'remote' in loc:
             return True
-        last_three = loc[-3:]
-        if len(last_three) == 3 and last_three[0] == ' ' and last_three[1:].isalpha() and last_three != ' us':
-            return False
         return not any(k in loc for k in _NON_US)
 
     # "any" or anything else — no filtering
