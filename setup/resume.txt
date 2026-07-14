@@ -1,0 +1,36 @@
+Mona Caro
+Azusa, CA | monacaro@gmail.com | 626-607-8656 | LinkedIn | Salesforce Trailblazer | monacaro.com
+PROFESSIONAL SUMMARY
+Business operations and marketing leader with 15+ years of experience driving go-to-market strategy, revenue growth, and cross-functional business partnerships across enterprise software, marketing technology, and sales operations environments. Proven track record translating market and competitive analysis into commercial strategy, building KPI and data models that inform pricing, channel, and pipeline decisions, and managing vendor and supplier relationships that improved margin and program performance. Experienced partnering with sales, finance, and operations leadership to align business strategy with operational capability, backed by hands-on CRM, marketing automation, and analytics platform expertise (Salesforce, Marketo, Eloqua). PMP Exam Prep completed (PMI); Salesforce Certified Administrator and Sales Cloud Consultant.
+CORE COMPETENCIES
+●	GTM Strategy & Channel Planning: Market Positioning, Pricing Strategy, Channel Management, Product Commercialization, Competitive & Market Trend Analysis
+●	Revenue & Margin Analytics: KPI Frameworks, Pipeline & Bookings Analysis, Predictive Lead Scoring Models, Forecasting, Data-Driven Decision Making
+●	Business Development & Vendor Management: Supplier & Vendor Relationship Management, Contract Coordination, Cross-Functional Alignment (Sales, Finance, Operations), Stakeholder Negotiation
+●	Marketing Technology & CRM/ERP: Salesforce, Marketo, Eloqua, DataLoader, Jitterbit, Microsoft 365
+●	Program & Project Delivery: End-to-End Project Management, Risk & Change Management, Executive Reporting, Agile/Scrum Facilitation
+PROFESSIONAL EXPERIENCE
+SAP | Senior Marketing Execution Specialist, Global Marketing Operations (Jan 2020 – Feb 2026)
+●	Go-to-Market Execution: Directed global marketing operations programs supporting go-to-market initiatives across 6+ concurrent workstreams, aligning regional and functional teams to commercial priorities and directly contributing to 121% of Total Cloud Pipeline target and 115% of SAL Value for SuccessFactors.
+●	Revenue & Pipeline Analytics: Drove structured programs influencing €130M in pipeline and €15M in bookings, partnering with analytics and regional teams to track performance against scope, schedule, and budget across multiple concurrent engagements.
+●	KPI Reporting & Decision Support: Built and maintained executive status dashboards and KPI tracking frameworks, synthesizing data from analytics platforms, regional teams, and functional leads into decision-ready reporting that identified variances and drove recovery planning.
+●	Cross-Functional Governance: Partnered with Legal, compliance, and cross-functional stakeholders to integrate regulatory and business requirements into execution workflows; built delivery playbooks, onboarding frameworks, and standardized templates adopted org-wide.
+IMAGINECRM | Project Manager (Pasadena, CA (2018–2020))
+Led discovery-to-go-live delivery of Salesforce (Sales Cloud, Service Cloud, NPSP), Salesforce Marketing Cloud, Marketo, and DemandTools implementations, translating client business goals into actionable commercialization and adoption plans. Managed data governance, system integrations (Jitterbit, DataLoader, Workbench), and vendor/third-party coordination (DocuSign, GeoPointe) across data migration, configuration, and end-user training workstreams.
+Delivered CRM and marketing platform implementations for a diverse client base — including Chan Zuckerberg Initiative, LA Waterkeeper, and LAEDC — building repeatable frameworks that transferred cleanly across industries and business models.
+CLOUD CREATIONS | Project Manager (Pasadena, CA (2017–2018))
+Managed 12–15 active Salesforce implementation and enhancement engagements simultaneously, delivering 30+ projects for 25+ clients across Sales Cloud, Service Cloud, Pardot, and Communities. Coordinated web service integrations (Tamarac, FundAmerica, Commercient, DBSync, Shopify) and third-party vendor deployments (DocuSign, ZenKraft/FedEx, GeoPointe), managing vendor relationships and stakeholder communications from contract kickoff through go-live.
+CONNEXITY INC. | Sales Operations Director (Los Angeles, CA (2014–2016))
+●	Marketing & Revenue Systems Integration: Integrated and launched Marketo marketing automation into Salesforce, establishing GTM processes for email execution, drip campaigns, landing pages, and lead capture that directly supported sales pipeline growth.
+●	Performance & Margin Optimization: Partnered with marketing and finance stakeholders to strategize, track, and optimize the monthly BizAdvisor newsletter as a revenue channel, increasing subscriber count 5–8% MoM and click-through rates 8–10%.
+●	Predictive Analytics & Data Quality: Managed critical data integration projects, improving lead scoring by 9 points through pipeline analysis and data quality initiatives; led global Salesforce administration and data integration across 3 company acquisitions.
+SHOPZILLA INC. / CONNEXITY INC. | Director, Retail Marketing Solutions (Los Angeles, CA (2014))
+Built and launched a new sales team and go-to-market motion targeting media and BizRate Insights solutions to the SMB market, developing digital advertising strategy and process optimization to support new revenue channels.
+SHOPZILLA INC. | Head of Merchant Operations (London, UK (2012–2014))
+●	International GTM & Demand Generation: Integrated and launched Eloqua marketing automation, increasing new business creation by 8% across all EU markets through email and demand generation strategy — domestic and international business development experience across multiple European markets.
+●	Vendor & Systems Management: Sourced, launched, and managed licensed PowerReviews product review solutions for Key and SMB sales teams; integrated Zendesk hub-and-spoke support systems, reducing support ticket volume by 21% through vendor and process optimization.
+CERTIFICATIONS & TRAINING
+●	Salesforce Certified Administrator
+●	Salesforce Certified Sales Cloud Consultant
+●	PMI On-Demand PMP Exam Prep
+VOLUNTEER & COMMUNITY
+●	Miryslist.org, CRM Manager – Executing day-to-day configuration, training, maintenance, and support for improving user experience. Overseeing APIs and donor database to ensure accurate tracking and management of key relationships.
